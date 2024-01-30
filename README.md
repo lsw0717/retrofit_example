@@ -1,6 +1,9 @@
 # dio_retrofit_example
 
-A new Flutter project.
+- Riverpod
+- Dio
+- Retrofit
+을 사용한 네트워크 아키텍쳐 설계 에시 코드입니다
 
 ## Getting Started
 
